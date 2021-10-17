@@ -1,0 +1,7 @@
+*.o
+main.c
+a.out
+libstring.a
+unit_tests
+*.gcda
+*.gcno
